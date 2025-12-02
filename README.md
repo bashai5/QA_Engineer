@@ -95,7 +95,7 @@
 
 **Решение**
 
-[Попарное тестирование](###)
+[Попарное тестирование]([###](https://docs.google.com/spreadsheets/d/1XCt6hxttMvmP4SlS8J1ZbXC41-bndb8bF8-Zi4-vsAI/edit?usp=sharing))
 
 ***
 
