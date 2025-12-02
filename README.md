@@ -120,7 +120,7 @@
 
 **Решение**
 
-[Таблица принятия решений](###)
+[Таблица принятия решений](https://docs.google.com/spreadsheets/d/1osBmBQa0chnfMQc2uLiDU4D3x3r0a-ITWNRyn07RmrA/edit?usp=sharing)
 
 ***
 
